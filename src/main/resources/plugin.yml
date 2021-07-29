@@ -1,0 +1,4 @@
+name: JoinLeavePlugin
+version: ${project.version}
+main: me.kodysimpson.joinleaveplugin.JoinLeavePlugin
+api-version: 1.17
